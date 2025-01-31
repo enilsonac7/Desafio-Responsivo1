@@ -80,28 +80,37 @@
         .link-header {
                 display:none;
         }
-}
+
 
         .button1 {
                 width: 91px;
                 height: 31px;
-                margin: 16px 0 0 235px;
+                margin: 10px 0 0 242px;
                 font-size: 12px;
                 line-height: 18px;
                 letter-spacing: 1px;
 }
 
         img {
-                width: 312px;
-                height: 288px;
-                margin: 415px 0 0 25px;
+                
+                width: 277px;
+                height: 219px;
+                margin: 524px 0 0 54px;
+                position:absolute;
+                
+        }
+        
+        section {
                 position:relative;
-}
+                width: 305px;
+                height: 300px;
+                margin-top:95px;
+        }
         
         h1 {
-                width: 278px;
-                height: 60px;
-                margin: -685px 0 0 -40px;
+                width: 256px;
+                height: 50px;
+                margin: 29px 0 0 -20px;
                 font-size: 30px;
                 line-height: 30px;
                 letter-spacing: 0.6px;
@@ -110,9 +119,9 @@
 }
 
         p {
-                width: 304px;
+                width: 290px;
                 height: 165px;
-                margin: -600px 0 0 -55px;
+                margin: 125px 0 0 -38px;
                 font-size: 18px;
                 line-height: 33px;
                 letter-spacing: 0.5px;
@@ -121,11 +130,14 @@
 }
 
         .more {
-                margin: -410px 0 0 39px;
+                margin: 335px 0 0 50px;
                 position: absolute;
+}
 }
                 
         
+
+
 
        
         
